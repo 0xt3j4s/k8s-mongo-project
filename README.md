@@ -1,6 +1,6 @@
 # k8s-mongo-project
 
-This is my first K8s project.
+This is my first K8s project. I made this to get some hands-on experience in Kubernetes and expand my knowledge in container orchestration.
 
 ## Prerequisites
 1. [minikube](https://minikube.sigs.k8s.io/docs/start/)
